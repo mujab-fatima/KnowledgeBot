@@ -1,4 +1,6 @@
 KnowledgeBot: Advancing Chatbot Intelligence with Federated Learning
+
+
 This repository contains the code and resources for reproducing the results of the paper titled "KnowledgeBot - Advancing Chatbot Intelligence: Federated Learning with LLM Model on Wikipedia Corpus". KnowledgeBot utilizes federated learning to enhance chatbot intelligence, leveraging large language models (LLMs) on a Wikipedia corpus.
 
 Table of Contents
